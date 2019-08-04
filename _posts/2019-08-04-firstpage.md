@@ -1,10 +1,12 @@
+---
 layout: post
-title: 开场白
+title: 第一篇日志
 date: 2019-08-04
 Author: Joyce
 categories: 
 tags: [sample, document]
 comments: true
+---
 
 # 开场白
 
